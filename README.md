@@ -1,5 +1,6 @@
 # Study_DateScience
 本日学んだこと
+確かこんな感じ
 回帰直線
 ・分散=x-xvar
 ・標準偏差=(x-xvar)^2
